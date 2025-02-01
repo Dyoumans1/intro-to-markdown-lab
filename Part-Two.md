@@ -9,7 +9,7 @@ Use the **cd** (change directory) command to navigate to the folder where you wa
 
 *Example:*
 
-```
+```bash
 cd ~/Documents
 ```
 This will navigate you to the "Documents" directory.
@@ -20,7 +20,7 @@ Use the **mkdir** (make directory) command to create a new folder for your proje
 
 *Example:*
 
-```
+```bash
 mkdir my_project
 ```
 This creates a new folder named my_project in your current directory.
@@ -30,7 +30,7 @@ Change into your newly created project folder using the **cd** command.
 
 *Example:*
 
-```
+```bash
 cd my_project
 ```
 ## 5. Create Files for Your Project
@@ -38,21 +38,21 @@ Create a new file for your project code. Use ***touch*** to create a file, or yo
 
 *Example:*
 
-```
+```bash
 touch index.js  # For a Javascript project
 ```
 
 ## 6. Run the Project
 Once your project is ready, you can run the project from the terminal.
 
-```
+```bash
 code .
 ```
 ## 7. Write Your Code
 Edit the files you created and start writing the code for your project using any editor of your choice.
 
 ## Summary of Commands
-``` 
+``` bash
 # Navigate to your folder
 cd ~/Documents
 
@@ -72,4 +72,5 @@ This is a basic workflow to get started with a new project in the terminal. The 
 
 If You need a command line crash course, check out the link below:
 
-https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line
+[MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line)
+
